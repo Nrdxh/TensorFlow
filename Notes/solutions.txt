@@ -1,0 +1,6 @@
+安装tensorflow（安装anconda对应版本后pip安装）
+视频教程 https://www.youtube.com/channel/UCVCSn4qQXTDAtGWpWAe4Plw
+
+
+错误：AttributeError: module ‘pandas’ has no attribute ‘computation’
+解决方案 http://blog.csdn.net/fendouwhy/article/details/73012564
