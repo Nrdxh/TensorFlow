@@ -7,11 +7,11 @@ TensorFlow官网 http://www.tensorflow.org
 在安装*anaconda*过程中需要勾选一下两个选项
 > - Add anconda to my PATH environment variable
 > - Register Anconda as my default Python 3.5
-![anaconda_install](https://github.com/Nrdxh/TensorFlow/blob/master/Install/anaconda-install.png?raw=true)
+![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/anaconda-install.png?raw=true)
 2. Install *TensorFlow*
 > - Cmd运行语句conda
 > - Cmd运行python --version查看对应的python版本
-![python](https://github.com/Nrdxh/TensorFlow/blob/master/Install/python.png?raw=true)
+![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/python.jpg?raw=true)
 > - Cmd输入pip install tensorflow进行tensorflow的安装
 > - 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
 # Test applet
