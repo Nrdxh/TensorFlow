@@ -11,10 +11,9 @@ TensorFlow官网 http://www.tensorflow.org
 > - Cmd运行语句conda
 > - Cmd运行python --version查看对应的python版本
 > - Cmd输入pip install tensorflow进行tensorflow的安装
-# 尝试运行Tensorflow
-1. 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
+> - 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
 # 小程序
 import tensorflow as tf
-a = tf.constant('hello TF')
-sess = tf.Session()
-print(sess.run(a))
+<br>a = tf.constant('hello TF')
+<br>sess = tf.Session()
+<br>print(sess.run(a))
