@@ -12,7 +12,7 @@ TensorFlow官网 http://www.tensorflow.org
 > - Cmd运行python --version查看对应的python版本
 > - Cmd输入pip install tensorflow进行tensorflow的安装
 > - 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
-# 小程序
+# Test applet
 import tensorflow as tf
 <br>a = tf.constant('hello TF')
 <br>sess = tf.Session()
