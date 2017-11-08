@@ -22,8 +22,8 @@
 > - a = tf.constant('hello TF')
 > - sess = tf.Session()
 > - print(sess.run(a))
+
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/run.jpg?raw=true)
 
 ### Result
-
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/result.jpg?raw=true)
