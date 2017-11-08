@@ -28,5 +28,4 @@
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/run.jpg?raw=true)
 
 ### Result
---------------------------
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/result.jpg?raw=true)
