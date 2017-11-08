@@ -4,6 +4,7 @@
 1. Install *Anaconda3-4.2.0-Windows-x86_64.exe* (python 3.5)
 <br>https://repo.continuum.io/archive/index.html
 <br>https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
+
 在安装*anaconda*过程中需要勾选一下两个选项
 > - Add anconda to my PATH environment variable
 > - Register Anconda as my default Python 3.5
