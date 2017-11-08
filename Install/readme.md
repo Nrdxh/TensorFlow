@@ -1,7 +1,7 @@
 [TensorFlow Official Website](http://www.tensorflow.org) 
 <br>（请参照官网的最新版本，以下以python3.5为例）
 # How to install TensorFlow on Windows
-1. Install *Anaconda3-4.2.0-Windows-x86_64.exe* (python 3.5)
+### 1. Install *Anaconda3-4.2.0-Windows-x86_64.exe* (python 3.5)
 <br>https://repo.continuum.io/archive/index.html
 <br>https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
 
@@ -11,7 +11,7 @@
 
 ![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/anaconda-install.png?raw=true)
 
-2. Install *TensorFlow*
+### 2. Install *TensorFlow*
 > - Cmd运行语句conda
 > - Cmd运行python --version查看对应的python版本
 
