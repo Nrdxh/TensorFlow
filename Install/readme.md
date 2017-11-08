@@ -13,7 +13,9 @@
 2. Install *TensorFlow*
 > - Cmd运行语句conda
 > - Cmd运行python --version查看对应的python版本
+
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/python.jpg?raw=true)
+
 > - Cmd输入pip install tensorflow进行tensorflow的安装
 > - 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
 
