@@ -21,10 +21,12 @@
 > - 在Cmd中进入python输入import tensorflow as tf，如果未报错，即tensorflow安装成功
 
 # Test applet
-> - import tensorflow as tf
-> - a = tf.constant('hello TF')
-> - sess = tf.Session()
-> - print(sess.run(a))
+```python
+import tensorflow as tf
+a = tf.constant('hello TF')
+sess = tf.Session()
+print(sess.run(a))
+```
 
 <br>![](https://github.com/Nrdxh/TensorFlow/blob/master/Install/image/run.jpg?raw=true)
 
